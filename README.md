@@ -1,37 +1,37 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM APEX-OBSIDIAN HERO SECTION: ABSOLUTE BLACK & CYBER GOLD -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=380&section=header&text=C%20%20❖%20%20P%20R%20O%20G%20R%20A%20M%20M%20I%20N%20G&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20INTERVIEW%20CODEX&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM QUANTUM-FORGE HERO SECTION: DEEP SPACE & NEON CYAN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050A,100:00E5FF&height=380&section=header&text=C%20%20❖%20%20P%20R%20O%20G%20R%20A%20M%20M%20I%20N%20G&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20INTERVIEW%20CODEX&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (ORBITRON FONT) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Systems+Protocols;►+Master+High-Probability+C+Programs;►+Dominate+Data+Structures,+Algorithms,+%26+Logic;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=FFD700&vCenter=true&size=21&font=Orbitron&weight=600" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (SHARE TECH MONO FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Initializing+Tier-1+Systems+Protocols;►+Master+High-Probability+C+Programs;►+Dominate+Data+Structures,+Algorithms,+%26+Logic;►+Compile.+Execute.+Secure+Your+Placement.&center=true&width=800&height=70&color=00E5FF&vCenter=true&size=22&font=Share+Tech+Mono&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-000000?style=for-the-badge&logo=github&logoColor=FFD700" alt="Author">
-  <img src="https://img.shields.io/badge/COMPILER-GCC_Standard-000000?style=for-the-badge&logo=gnu&logoColor=FFD700" alt="Compiler">
-  <img src="https://img.shields.io/badge/PAYLOAD-Core_C_Architecture-000000?style=for-the-badge&logo=c&logoColor=FFD700" alt="Content">
-  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-000000?style=for-the-badge&logo=target&logoColor=FFD700" alt="Target">
-  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-FFD700?style=for-the-badge&logo=rocket&logoColor=000000" alt="Status">
+  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-05050A?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Author">
+  <img src="https://img.shields.io/badge/COMPILER-GCC_Standard-05050A?style=for-the-badge&logo=gnu&logoColor=00E5FF" alt="Compiler">
+  <img src="https://img.shields.io/badge/PAYLOAD-Core_C_Architecture-05050A?style=for-the-badge&logo=c&logoColor=00E5FF" alt="Content">
+  <img src="https://img.shields.io/badge/TARGET-Tier--1_Placements-05050A?style=for-the-badge&logo=target&logoColor=00E5FF" alt="Target">
+  <img src="https://img.shields.io/badge/STATUS-Ready_For_Deployment-00E5FF?style=for-the-badge&logo=rocket&logoColor=05050A" alt="Status">
 </p>
 
 <br>
 
 <a href="./CODE%20BY%20K%20V%20S%20N%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-05050A?style=for-the-badge&logo=adobeacrobatreader&logoColor=00E5FF" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> 👑 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of C programming questions designed to stress-test your proximity to the metal. From complex numerical algorithms and recursion[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span) to precise memory address manipulation and multi-dimensional matrices[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span), this payload guarantees absolute readiness for elite engineering placements.*
+> 💠 **EXECUTIVE BRIEFING:** *Superficial syntax knowledge will not survive a systems-level technical interview. This repository houses a highly-classified, tactical codex of C programming questions designed to stress-test your proximity to the metal. From complex numerical algorithms and recursion[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span) to precise memory address manipulation and multi-dimensional matrices[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span), this payload guarantees absolute readiness for elite engineering placements.*
 
 </div>
 
 <br>
 
-<!-- SLEEK CYBER GOLD TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=2" width="100%"/>
+<!-- SLEEK NEON CYAN TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:05050A&height=2" width="100%"/>
 
 <br>
 
@@ -44,7 +44,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/math.png" width="24"/> <kbd>MODULE // 01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/math.png" width="24"/> <kbd>MODULE // 01</kbd> CORE LOGIC & MATHEMATICS</b></summary>
   <blockquote>
   <table width="100%" cellpadding="22">
     <tr>
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/sorting-arrows.png" width="24"/> <kbd>MODULE // 02</kbd> ALGORITHMS & DATA STRUCTURES</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/sorting-arrows.png" width="24"/> <kbd>MODULE // 02</kbd> ALGORITHMS & DATA STRUCTURES</b></summary>
   <blockquote>
   <table width="100%" cellpadding="22">
     <tr>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/layers.png" width="24"/> <kbd>MODULE // 03</kbd> MATRICES & STRINGS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/layers.png" width="24"/> <kbd>MODULE // 03</kbd> MATRICES & STRINGS</b></summary>
   <blockquote>
   <table width="100%" cellpadding="22">
     <tr>
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFD700/binary-file.png" width="24"/> <kbd>MODULE // 04</kbd> FILE I/O & ADVANCED CONCEPTS</b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/binary-file.png" width="24"/> <kbd>MODULE // 04</kbd> FILE I/O & ADVANCED CONCEPTS</b></summary>
   <blockquote>
   <table width="100%" cellpadding="22">
     <tr>
@@ -135,8 +135,8 @@
 
 <br>
 
-<!-- SLEEK VOID TO CYBER GOLD DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFD700&height=2" width="100%"/>
+<!-- SLEEK VOID TO NEON CYAN DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,100:00E5FF&height=2" width="100%"/>
 
 <br>
 
@@ -148,18 +148,18 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-000000?style=for-the-badge&logoColor=FFD700" /> 
-<img src="https://img.shields.io/badge/ROLE-Backend_Developer-000000?style=for-the-badge&logoColor=FFD700" /> 
-<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-000000?style=for-the-badge&logoColor=FFD700" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-000000?style=for-the-badge&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-000000?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-05050A?style=for-the-badge&logoColor=00E5FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Backend_Developer-05050A?style=for-the-badge&logoColor=00E5FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Systems_Programmer-05050A?style=for-the-badge&logoColor=00E5FF" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Firmware_Engineer-05050A?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ROLE-C/C++_Developer-05050A?style=for-the-badge&logoColor=00E5FF" />
 
 </div>
 
 <br>
 
-<!-- SLEEK CYBER GOLD TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:000000&height=2" width="100%"/>
+<!-- SLEEK NEON CYAN TO VOID DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:05050A&height=2" width="100%"/>
 
 <br>
 
@@ -173,25 +173,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/visible--v1.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Architecture</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/code.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Identify Constraints</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/bug.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/bug.png" width="60"/><br>
       <b>03. DEBUG</b><br>
       <code>Dry-Run Mentally</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFD700/checked.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Output Precision</code>
     </td>
@@ -208,11 +208,10 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:05050A&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
   <b>Master the Logic. Own the Hardware.</b><br>
   <i>Architected by <a href="https://github.com/Adityanaik1818">Aditya Prakash Naik</a></i>
 </div>
-
